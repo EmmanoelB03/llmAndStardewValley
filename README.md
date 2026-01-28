@@ -20,7 +20,7 @@ Este projeto monitora os logs do SMAPI (Stardew Valley Mod API) em tempo real e 
 
 1. Clone o repositório:
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/EmmanoelB03/llmAndStardewValley
 cd llmAndStardewValley
 ```
 
